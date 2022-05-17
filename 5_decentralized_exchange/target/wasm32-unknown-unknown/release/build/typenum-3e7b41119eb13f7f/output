@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/tiagopedroso/Documents/Dev/Radix_workshop/lisbon_scrypto_tutorial/5_decentralized_exchange/target/wasm32-unknown-unknown/release/build/typenum-3e7b41119eb13f7f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/tiagopedroso/Documents/Dev/Radix_workshop/lisbon_scrypto_tutorial/5_decentralized_exchange/target/wasm32-unknown-unknown/release/build/typenum-3e7b41119eb13f7f/out/op.rs

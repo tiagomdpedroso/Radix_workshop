@@ -1,0 +1,1 @@
+/Users/tiagopedroso/Documents/Dev/Radix_workshop/lisbon_scrypto_tutorial/5_decentralized_exchange/target/wasm32-unknown-unknown/release/libgumball_machine.rlib: /Users/tiagopedroso/Documents/Dev/Radix_workshop/lisbon_scrypto_tutorial/5_decentralized_exchange/src/lib.rs
